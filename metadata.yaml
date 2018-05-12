@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32710'
     url: http://www.gutenberg.org/2009/agents/32710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36605#The-Sirdar-s-Oath--A-Tale-of-the-North-West-Frontier
 gutenberg_issued: '2011-07-03'
 gutenberg_type: Text
 identifiers:
